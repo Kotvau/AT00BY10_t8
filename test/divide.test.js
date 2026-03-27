@@ -11,6 +11,3 @@ describe("divide", function () {
     expect(divide(6, 4)).to.equal(1.5);
   });
 });
-
-//divide returns incorrect result
-//The implementation seems to divide divisor by itself instead of dividend by divisor.
