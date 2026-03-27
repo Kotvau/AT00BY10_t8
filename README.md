@@ -1,19 +1,19 @@
-# Tehtävä 8-Deployment
+# Ohjelmistojen testaus ja ylläpito - Tehtävä 8-Deployment
 
-# Student template
+## Tarkoitus
 
-## Purpose of this repository
+Testattaan testikirjastoa (Student template) yksikkötesteilllä. Yksikkötestit on toteutettu mocha ja chai.
+Gitiin ja gitHub Actions . workflow ja Coverals. isuuet Githubin isuueissa
 
-This is a project template for students participating in Software Testing course
-at LAB University of Applied Sciences.
+## Käytetyt teknologiat
 
-The repository only contains the source code that is under testing, `package.json` skeleton
-and LICENSE file.
+- Node.js ....
+- Mocha: ....
+- Chai:....
+- Git?
 
-Source code folder contains a separate license file that must **NOT** be removed under any circumstances!
-Removing this license file directly violates terms and conditions of the software under testing.
-Individuals who remove or modify the license file will also carry the consequences.
+## Asennus/Ajo/käynnistys....
 
----
+Kloonaa projekti ja asenna riippuvuudet?
 
 [![Coverage Status](https://coveralls.io/repos/github/Kotvau/AT00BY10_t8/badge.svg)](https://coveralls.io/github/Kotvau/AT00BY10_t8)
