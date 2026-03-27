@@ -1,3 +1,8 @@
+/**
+ * Test for the divide function.
+ *
+ */
+
 import { expect } from "chai";
 import divide from "../src/divide.js";
 
