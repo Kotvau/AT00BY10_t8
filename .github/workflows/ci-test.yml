@@ -32,7 +32,7 @@ jobs:
         run: ls -R coverage || echo "No coverage folder"
 
       - name: Coveralls
-        if: always()
+      
         uses: coverallsapp/github-action@v2
         with:
           file: coverage/lcov.info
