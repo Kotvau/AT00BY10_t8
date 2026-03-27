@@ -14,4 +14,4 @@ Individuals who remove or modify the license file will also carry the consequenc
 
 ---
 
-[![Coverage Status](https://coveralls.io/repos/github/Kotvau/AT00BY10_t8/badge.svg?branch=main)](https://coveralls.io/github/Kotvau/AT00BY10_t8?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/Kotvau/AT00BY10_t8/badge.svg)](https://coveralls.io/github/Kotvau/AT00BY10_t8)
