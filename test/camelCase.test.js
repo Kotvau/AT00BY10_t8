@@ -1,3 +1,7 @@
+/**
+ * Tests for camelCase function
+ */
+
 import { expect } from "chai";
 import camelCase from "../src/camelCase.js";
 
@@ -15,8 +19,6 @@ describe("camelCase", () => {
   });
 
   it("handles undefined input", () => {
-    expect(camelCase()).to.equal(""); // @param {string} [string='']
+    expect(camelCase()).to.equal("");
   });
 });
-
-//Returns string in camelcase + " "
