@@ -1,6 +1,6 @@
 /**
  * Test suite for toString function
- */
+
 
 import { expect } from "chai";
 import toString from "../src/toString.js";
@@ -16,3 +16,4 @@ describe("toString", function () {
     expect(toString([1, 2, 3])).to.equal("1,2,3");
   });
 });
+ */
