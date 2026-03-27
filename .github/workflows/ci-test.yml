@@ -29,4 +29,5 @@ jobs:
         continue-on-error: true
 
       - name: Coveralls
+        if: always()
         uses: coverallsapp/github-action@v2
