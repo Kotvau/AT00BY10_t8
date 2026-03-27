@@ -1,3 +1,7 @@
+/**
+ * Tests for isLength function
+ */
+
 import { expect } from "chai";
 import isLength from "../src/isLength.js";
 
