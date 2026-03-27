@@ -27,5 +27,10 @@ jobs:
           npm install
           npm run coverage
 
+      - name: Check coverage files
+        run: ls -R coverage || echo "No coverage folder"
+
       - name: Coveralls
         uses: coverallsapp/github-action@v2
+        with:
+          file: coverage/lcov.info
