@@ -11,6 +11,19 @@ Testataan testikirjastoa (AT00BY10) yksikkötesteilllä. Yksikkötestit on toteu
 - Chai: 6.2.2
 - c8: 11.0.0
 
+## Ajaminen lokaalisti
+
+```bash
+1. Kloonaa projekti
+
+2. Asenna riippuvuudet:
+- npm install
+
+3. Aja testit ja coverage-raportti
+- npm run coverage
+
+```
+
 ## Coverallsin kattavuus Badge
 
 [![Coverage Status](https://coveralls.io/repos/github/Kotvau/AT00BY10_t8/badge.svg)](https://coveralls.io/github/Kotvau/AT00BY10_t8)
